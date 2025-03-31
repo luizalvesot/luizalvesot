@@ -1,6 +1,7 @@
 <h1 align="center"> Olá, eu sou Luiz Alves 👋🚀</h1>
 <h3 align="center">Focado em desenvolver soluções importantes.</h3>
 <br>
+
 - 🔭 Trabalho especificamente com PHP e o framework Laravel
 - 💬 Sei me virar e posso "trocar umas ideias" sobre SQL, Javascript, Bootstrap e API's Rest
 - 🧠 Estou aprendendo mais sobre ***Inteligência Artificial***
