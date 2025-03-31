@@ -10,4 +10,4 @@
 - 📫 Se precisar falar comigo, me encontrará no email alvesluizotavio23@gmail.com
 
 <h3>Me encontre também no Linkedin</h3>
-![LinkedIn](https://www.linkedin.com/in/luiz-otavio-alves-62098614a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luiz-otavio-alves-62098614a)
