@@ -9,5 +9,7 @@
 
 - 📫 Se precisar falar comigo, me encontrará no email alvesluizotavio23@gmail.com
 
+<br>
+
 <h3>Me encontre também no Linkedin</h3>
 https://www.linkedin.com/in/luiz-otavio-alves-62098614a
