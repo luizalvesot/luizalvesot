@@ -1,6 +1,10 @@
 <h1 align="center"> Olá, eu sou Luiz Alves 👋🚀</h1>
 <h3 align="center">Focado em desenvolver soluções importantes.</h3>
 <br>
+<p align="center">
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+</p>
+
 
 - 🔭 Trabalho especificamente com PHP e o framework Laravel
 - 💬 Sei me virar e posso "trocar umas ideias" sobre SQL, Javascript, Bootstrap e API's Rest
